@@ -16,7 +16,7 @@ In Linux there is two type of user.
 
 1. super user(root)
 
-2\. normal user(username)
+2\. normal user(username) 
 
 
 
@@ -34,7 +34,7 @@ In Linux there are two types of data.
 
 In Linux there is no concept of (C:), drive in Linux there is only one directory (/)
 
-(/)==>this directory show only top level data
+(/)==>this directory show only top level data 
 
 
 
@@ -44,27 +44,7 @@ In Linux there is no concept of (C:), drive in Linux there is only one directory
 
 
 
-\---
 
-/     ==> it is parent directory on Linux operating system
-
-/root ==> this is super user home directory
-
-root  ==> super user login name
-
-
-
-\----
-
-\[ root@       localhos     \~                        ]#
-
-
-
-\[login name @ machine name \~(show working directory)]#(super user)
-
-
-
-\----
 
 example :-
 
@@ -80,11 +60,11 @@ afs  bin  boot  dev  etc  home  lib  lib64  media  mnt  opt  proc  root  run  sb
 
 
 
-If we want to see user define data .
+If we want to see top user define data .
 
 \->/home/username/
 
-this is where user can define data , out home user can't create any file or folder ,user only can see data as per permission (provider by root ).
+this is where user can define data , out home user can't create any file or folder ,user only can see data as per permission (provider by root ).  
 
 
 
