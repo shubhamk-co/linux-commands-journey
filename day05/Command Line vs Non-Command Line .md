@@ -57,7 +57,7 @@ ls -l   # This is active (command)
 ---
 
 ## 📸 My Notes Image
-![My Notes]((https://github.com/shubhamk-co/linux-commands-journey/blob/main/day05/notes.jpng))
+![My Notes](https://github.com/shubhamk-co/linux-commands-journey/blob/main/day05/notes.jpng)
 ---
 
 ## 📌 Notes
