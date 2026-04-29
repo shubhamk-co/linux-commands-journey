@@ -57,7 +57,7 @@ ls -l   # This is active (command)
 ---
 
 ## 📸 My Notes Image
-
+![My Notes](notes.png)
 ---
 
 ## 📌 Notes
