@@ -57,7 +57,8 @@ ls -l   # This is active (command)
 ---
 
 ## 📸 My Notes Image
-![My Notes](https://github.com/shubhamk-co/linux-commands-journey/blob/main/day05/notes.jpng)
+![My Notes](notes.jpeg)
+
 ---
 
 ## 📌 Notes
@@ -66,12 +67,4 @@ ls -l   # This is active (command)
 * Only actual commands are executed
 * Useful in scripts and documentation
 
----
-
-# ✅ Result
-
-Understood the difference between:
-
-* Command line (active)
-* Non-command line (inactive)
 
