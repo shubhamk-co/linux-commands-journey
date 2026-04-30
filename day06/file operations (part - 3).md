@@ -112,7 +112,7 @@ sed -n '$p' /etc/passwd
 
 ---
 
-# 🐧 `script` Command (Terminal Recording)
+# `script` Command (Terminal Recording)
 
 ## 🎯 Definition
 
