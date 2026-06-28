@@ -580,25 +580,10 @@ Be careful while using on system files ⚠️
 
 
 
-\# ✅ Result
 
 
 
-Successfully practiced:
 
-
-
-\* Pattern searching
-
-\* Recursive search
-
-\* Regex matching
-
-\* Text filtering and editing
-
-
-
-\---
 
 
 
